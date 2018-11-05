@@ -5,7 +5,5 @@ module.exports = {
   },
   devServer: {
     port: 1575,
-    proxy: {
-    },
   }
 }
